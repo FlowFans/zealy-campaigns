@@ -1,6 +1,6 @@
-# Developer Campaigns
+# Zealy Campaigns
 
-This is a repository for the Developer's Campaigns related to Cadence and Flow Blockchain on [Zealy.io](https://zealy.io/c/flow-community).
+This is a repository for the Campaigns related to Cadence and Flow Blockchain on [Zealy](https://zealy.io/c/flow-community).
 
 ## 2023
 
