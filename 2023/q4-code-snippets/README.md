@@ -6,8 +6,12 @@ According to the daily question requirements, submitting a code snippet PR will 
 
 Choose a following topic and submit a code snippet that meets the requirements of the topic:
 
-Note: Each user can only complete one topic once.
+Note: The same topic can be completed multiple times, but the code cannot be the same.
 
-- [2023-11-27](challenges/2023-11-27.md)
+- [Non-Fungible Tokens](challenges/NFT.md)
+- [Fungible Tokens](challenges/FungibleToken.md)
+- [Randomness](challenges/Randomness.md)
+- [Dynamic Import](challenges/Dynamic.md)
+- [AccountLinking](challenges/AccountLinking.md)
 
 ## How to submit a code snippet?
