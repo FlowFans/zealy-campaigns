@@ -1,6 +1,6 @@
 # Code Snippets Challenge for 2023 Q4
 
-According to the daily question requirements, submitting a code snippet PR will earn the [Zealy quest XP](https://zealy.io/c/flow-community/questboard).
+According to the daily quest requirements, submitting a code snippet PR will earn the [Zealy quest XP](https://zealy.io/c/flow-community/questboard).
 
 ## Challenges
 
@@ -44,4 +44,3 @@ Submit the pull request of your code snippet.
 Submit your pull request URL to the [Zealy Challenge Quest](https://zealy.io/c/flow-community/questboard/4a34402d-c149-4d04-9e0c-a996e972c6d4)
 
 <img width="960" alt="image" src="https://github.com/FlowFans/dev-campaigns/assets/707025/c98d157b-5c9e-440d-bd02-4aced460dbb2">
-

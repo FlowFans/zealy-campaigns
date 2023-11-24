@@ -4,4 +4,10 @@ According to the daily question requirements, submitting a code snippet PR will 
 
 ---
 
-TBD
+## Requirements
+
+Implement a Code Snippet related to using Flow VRF.
+
+## Reference
+
+- [Flow VRF - Doc](https://developers.flow.com/build/advanced-concepts/randomness)

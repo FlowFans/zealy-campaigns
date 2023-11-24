@@ -4,4 +4,10 @@ According to the daily question requirements, submitting a code snippet PR will 
 
 ---
 
-TBD
+## Requirements
+
+Implement a Code Snippet related to Importing a contract dynamically.
+
+## Reference
+
+- [Account](https://cadence-lang.org/docs/language/accounts#publicaccount)
