@@ -37,7 +37,7 @@ Implement code snippet based on the topic you choose.
 
 Submit the pull request of your code snippet.
 
-<img width="360" alt="image" src="https://github.com/FlowFans/dev-campaigns/assets/707025/16225c1e-89e1-4f96-b94a-6a587a4462a5">
+<img width="420" alt="image" src="https://github.com/FlowFans/dev-campaigns/assets/707025/31c2c89f-8026-4c55-9ff6-1e06b92ccf12">
 
 > Step.5
 
