@@ -14,6 +14,11 @@ Note: The same topic can be completed multiple times, but the code cannot be the
 - [Dynamic Import](challenges/Dynamic.md)
 - [AccountLinking](challenges/AccountLinking.md)
 
+## Requirements
+
+- The code snippet should be submitted in the form of a pull request to this repository.
+- The pull request should contain a file named `{ZealyUsername}_{ChallengeName}_{date}.cdc` in the `submissions` folder.
+
 ## How to quickly submit a code snippet?
 
 > Step.1
