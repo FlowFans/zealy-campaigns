@@ -16,26 +16,26 @@ According to the daily quest requirements, submitting a price prediction PR will
 
 ## How to quickly submit a prediction PR?
 
-> Step.1
+> **Step.1**
 
 Go to [submissions](./submissions) folder and add file.
 
 <img width="1280" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/eb2fcde5-f564-413a-bfab-9b8641fbaf34">
 
-> Step.2
+> **Step.2**
 
-Create a new text file and paste your Flow Address to this file
+Create a new text file and paste your Flow Address to this file.  
 Your file name should be `{PredictionDate}_{ZealyUsername}_{TransactionCountPrediction}.txt`
 
 <img width="1280" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/65e56363-d680-4df0-9071-9c01ae65573e">
 
-> Step.3
+> **Step.3**
 
 Submit the pull request of your price prediction
 
 <img width="400" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/7d853e09-62b7-4f27-9d81-4a70df98afd0">
 
-> Step.4
+> **Step.4**
 
 Submit your pull request URL to the [Zealy Quest](https://zealy.io/c/flow-community/questboard/550476ca-6d79-45ab-bf93-5e9ea735b647)
 
