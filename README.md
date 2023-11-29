@@ -4,7 +4,7 @@ This is a repository for the Campaigns related to Cadence and Flow Blockchain on
 
 ## 2023
 
-Available campaigns for 2023 are:
+Available campaigns:
 
 - [ ] [Code Snippets](./2023/q4-code-snippets/README.md)
-- [ ] [Price Prediction](./2023/q4-price-prediction/README.md)
+- [ ] [Transaction Count Prediction](./2023/q4-trx-cnt-prediction/README.md)
