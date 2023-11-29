@@ -18,29 +18,26 @@ According to the daily quest requirements, submitting a price prediction PR will
 
 > Step.1
 
-Go to [`submissions` folder](https://github.com/FlowFans/zealy-campaigns/tree/main/2023/q4-price-prediction/submissions) and add file.
+Go to [submissions](./submissions) folder and add file.
 
-<img width="1535" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/27520b0a-2754-422d-9394-d546d801ed21">
+<img width="1280" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/eb2fcde5-f564-413a-bfab-9b8641fbaf34">
 
 > Step.2
 
-Create a new text file.
-Your file name should be `{PredictionDate}_{ZealyUsername}_{PricePredictionInUSD}.txt`
+Create a new text file and paste your Flow Address to this file
+Your file name should be `{PredictionDate}_{ZealyUsername}_{TransactionCountPrediction}.txt`
 
-<img width="1531" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/664092fa-970b-4d75-b882-26a4ec6f4947">
+<img width="1280" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/65e56363-d680-4df0-9071-9c01ae65573e">
 
 > Step.3
 
-Paste your Flow Address to this file
+Submit the pull request of your price prediction
+
+<img width="400" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/7d853e09-62b7-4f27-9d81-4a70df98afd0">
 
 > Step.4
 
-Submit the pull request of your price prediction
-
-<img width="420" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/b5dafe2a-556b-4a31-aebe-6f815211e776">
-
-> Step.5
-
 Submit your pull request URL to the [Zealy Quest](https://zealy.io/c/flow-community/questboard/550476ca-6d79-45ab-bf93-5e9ea735b647)
 
-<img width="640" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/2c98d93c-a227-4ada-8d19-f83c958f6c5c">
+<img width="640" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/7d3b83ab-08c9-45db-8073-891115606fc6">
+
