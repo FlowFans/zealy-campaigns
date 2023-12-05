@@ -6,7 +6,7 @@ According to the daily quest requirements, submitting a price prediction PR will
 
 - The transaction amount prediction should be submitted in the form of a pull request to this repository.
 - The pull request should contain a file named `{PredictionDate}_{ZealyUsername}_{TransactionCountPrediction}.txt` in the `submissions` folder.
-  - **The predicted date must be 24 hours after the PR submission time. It will be regarded as the UTC time at 0:00 of that date.**
+  - **The predicted date must be 4 hours after the PR submission time. It will be regarded as the _UTC 0:00_ on that date.**
 - Submission file format: The file should contain a single line of your FLOW address for reward.
 
 ## Reward for each prediction date
