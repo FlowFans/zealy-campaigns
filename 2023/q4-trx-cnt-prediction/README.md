@@ -9,7 +9,7 @@ According to the daily quest requirements, submitting a price prediction PR will
   - **It will be regarded as the _UTC 0:00_ on that date.**
   - This value is from the transaction count data displayed on [FlowDiver](https://www.flowdiver.io/analytics) at the specified hour.
   <img width="1168" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/bdac3360-0433-4d66-ae9e-118b8b8f8844">
-  - **The predicted date must be 4 hours after the PR submission time.**
+  - The predicted date must be **4 hours after** the PR submission time.
 - Submission file format: The file should contain a single line of **your FLOW address** for reward.
 
 ## Reward for each prediction date
