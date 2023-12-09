@@ -17,6 +17,28 @@ According to the daily quest requirements, submitting a price prediction PR will
 - The reward for each prediction date, please check on [Zealy.io](https://zealy.io/c/flow-community/leaderboard).
 - The reward will be distributed to the winner's FLOW address in the submission file.
 
+## Results and Winners
+
+You can find the real-time transaction Count here: <https://www.flowdiver.io/analytics>
+
+| Date | Transaction Count(at 00:00) | Winner | Winner's Prediction | Revealed |
+|--- |----- |--- |------ | -- |
+| 12.09 | 42703 | Harahap | 45600 | ✅ |
+| 12.10 | - | - | - | - |
+| 12.11 | - | - | - | - |
+| 12.12 | - | - | - | - |
+| 12.13 | - | - | - | - |
+| 12.14 | - | - | - | - |
+| 12.15 | - | - | - | - |
+| 12.16 | - | - | - | - |
+| 12.17 | - | - | - | - |
+| 12.18 | - | - | - | - |
+| 12.19 | - | - | - | - |
+| 12.20 | - | - | - | - |
+| 12.21 | - | - | - | - |
+| 12.22 | - | - | - | - |
+| 12.23 | - | - | - | - |
+
 ## How to quickly submit a prediction PR?
 
 > **Step.1**
