@@ -24,7 +24,7 @@ You can find the real-time transaction Count here: <https://www.flowdiver.io/ana
 | Date | Transaction Count(at 00:00) | Winner | Winner's Prediction | Revealed |
 |--- |----- |--- |------ | -- |
 | 12.09 | 42703 | Harahap | 45600 | ✅ |
-| 12.10 | - | - | - | - |
+| 12.10 | 43269 | titoarmando | 43080 | ✅ |
 | 12.11 | - | - | - | - |
 | 12.12 | - | - | - | - |
 | 12.13 | - | - | - | - |
