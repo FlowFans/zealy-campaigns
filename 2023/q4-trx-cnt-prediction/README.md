@@ -25,7 +25,7 @@ You can find the real-time transaction Count here: <https://www.flowdiver.io/ana
 |--- |----- |--- |------ | -- |
 | 12.09 | 42703 | Harahap | 45600 | ✅ |
 | 12.10 | 43269 | titoarmando | 43080 | ✅ |
-| 12.11 | - | - | - | - |
+| 12.11 | 42942 | titoarmando | 42300 | ✅ |
 | 12.12 | - | - | - | - |
 | 12.13 | - | - | - | - |
 | 12.14 | - | - | - | - |
