@@ -39,6 +39,9 @@ You can find the real-time transaction Count here: <https://www.flowdiver.io/ana
 | 12.22 | - | - | - | - |
 | 12.23 | - | - | - | - |
 
+**Note:**  
+The rewards will be distributed uniformly after the end of the sprint. Please make sure to leave your Flow address in the file when submitting your prediction.
+
 ## How to quickly submit a prediction PR?
 
 > **Step.1**
