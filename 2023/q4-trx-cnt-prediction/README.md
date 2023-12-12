@@ -26,7 +26,7 @@ You can find the real-time transaction Count here: <https://www.flowdiver.io/ana
 | 12.09 | 42703 | Harahap | 45600 | ✅ |
 | 12.10 | 43269 | titoarmando | 43080 | ✅ |
 | 12.11 | 42942 | titoarmando | 42300 | ✅ |
-| 12.12 | - | - | - | - |
+| 12.12 | 88449 | Anachang1025 | 88000 | ✅ |
 | 12.13 | - | - | - | - |
 | 12.14 | - | - | - | - |
 | 12.15 | - | - | - | - |
@@ -38,6 +38,9 @@ You can find the real-time transaction Count here: <https://www.flowdiver.io/ana
 | 12.21 | - | - | - | - |
 | 12.22 | - | - | - | - |
 | 12.23 | - | - | - | - |
+
+**Note:**  
+The rewards will be distributed uniformly after the end of the sprint. Please make sure to leave your Flow address in the file when submitting your prediction.
 
 ## How to quickly submit a prediction PR?
 
