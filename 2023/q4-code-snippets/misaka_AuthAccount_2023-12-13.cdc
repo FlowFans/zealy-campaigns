@@ -2,7 +2,7 @@
 pub struct AuthAccount {
 
     /// The address of the account.
-    pub let address: 0xe7aa5d149779178f
+    pub let address: Address
 
     /// The FLOW balance of the default vault of this account.
     pub let balance: UFix64
