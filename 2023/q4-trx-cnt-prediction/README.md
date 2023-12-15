@@ -29,7 +29,7 @@ You can find the real-time transaction Count here: <https://www.flowdiver.io/ana
 | 12.12 | 88449 | Anachang1025 | 88000 | ✅ |
 | 12.13 | 14954 | marlinalia | 11000 | ✅ |
 | 12.14 | 27985 | Amy_Jobob_21 | 27499 | ✅ |
-| 12.15 | - | - | - | - |
+| 12.15 | 10177 | misteriosa | 10000 | ✅ |
 | 12.16 | - | - | - | - |
 | 12.17 | - | - | - | - |
 | 12.18 | - | - | - | - |
