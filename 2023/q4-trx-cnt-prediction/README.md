@@ -6,7 +6,8 @@ According to the daily quest requirements, submitting a price prediction PR will
 
 - The transaction amount prediction should be submitted in the form of a pull request to this repository.
 - The pull request should contain a file named `{PredictionDate}_{ZealyUsername}_{TransactionCountPrediction}.txt` in the `submissions` folder.
-  - **It will be regarded as the _UTC 0:00_ on that date.**
+  - **`PredictionDate` will be regarded as the _UTC 0:00_ on that date.**
+  - `TransactionCountPrediction` will be regarded as transaction count for the hour of _UTC 0:00_ on that date.
   - This value is from the transaction count data displayed on [FlowDiver](https://www.flowdiver.io/analytics) at the specified hour.
   <img width="1168" alt="image" src="https://github.com/FlowFans/zealy-campaigns/assets/707025/bdac3360-0433-4d66-ae9e-118b8b8f8844">
   - The predicted date must be **4 hours after** the PR submission time.
@@ -30,7 +31,7 @@ You can find the real-time transaction Count here: <https://www.flowdiver.io/ana
 | 12.13 | 14954 | marlinalia | 11000 | ✅ |
 | 12.14 | 27985 | Amy_Jobob_21 | 27499 | ✅ |
 | 12.15 | 10177 | misteriosa | 10000 | ✅ |
-| 12.16 | - | - | - | - |
+| 12.16 | 9591 | Alexbug1987#4637 | 9577 | ✅ |
 | 12.17 | - | - | - | - |
 | 12.18 | - | - | - | - |
 | 12.19 | - | - | - | - |
