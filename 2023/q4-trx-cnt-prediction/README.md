@@ -32,7 +32,7 @@ You can find the real-time transaction Count here: <https://www.flowdiver.io/ana
 | 12.14 | 27985 | Amy_Jobob_21 | 27499 | ✅ |
 | 12.15 | 10177 | misteriosa | 10000 | ✅ |
 | 12.16 | 9591 | Alexbug1987#4637 | 9577 | ✅ |
-| 12.17 | 10175 | Alhilmii | 10280 | ✅ |
+| 12.17 | - | - | - | - |
 | 12.18 | - | - | - | - |
 | 12.19 | - | - | - | - |
 | 12.20 | - | - | - | - |
