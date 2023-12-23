@@ -38,7 +38,7 @@ You can find the real-time transaction Count here: <https://www.flowdiver.io/ana
 | 12.20 | 13126 | kmshmzah | 13100 | ✅ |
 | 12.21 | 8708 | tiaoksarina | 8780 | ✅ |
 | 12.22 | 12685 | punkok. | 12578 | ✅ |
-| 12.23 | - | - | - | - |
+| 12.23 | 12917 | kmshmzah | 13100 | ✅ |
 
 **Note:**  
 The rewards will be distributed uniformly after the end of the sprint. Please make sure to leave your Flow address in the file when submitting your prediction.
